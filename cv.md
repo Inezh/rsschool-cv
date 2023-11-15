@@ -10,6 +10,8 @@
 [LinkedIn](https://www.linkedin.com/in/babelko-inna/)\
 [Netlify](https://ubiquitous-dasik-382854.netlify.app)
 
+______________________________________________________________________________________
+
 
 ### About me
 
@@ -52,12 +54,14 @@ function changeCurrency(Product, newCurrency) {
 console.log(changeCurrency(Product, "EUR"));
 
 ```
+
 ### Education
 - **University:** KNU T.G. Shevchenko. Management.
 - **Courses:** 
     + SheCodes.
     + Prog Academy. Web Design.
     + Coursera. Learning how to learn.
+
 
 ### Languages
 - **English:** Upper-intermediate.
