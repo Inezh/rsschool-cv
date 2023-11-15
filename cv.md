@@ -1,6 +1,6 @@
 # **Babelko Inna** 
 
-## Junior Front-end Developer
+## Junior Front-End Developer
 
 ### Contact information
 
